@@ -1,15 +1,19 @@
 [1. Créer une page dans le BO pour un theme](/theme/create-page.md)
 
-[1. Ajouter un sous menu](/theme/submenu.md)
+[2. Ajouter un sous menu](/theme/submenu.md)
 
-[1. Créer une page dans le BO pour un theme](/theme/)
+[3. Ajouter un champ de formulaire](/theme/formfield.md)
 
-[1. Créer une page dans le BO pour un theme]()
+[4. Customize admin page](/theme/customize.md)
 
-[1. Créer une page dans le BO pour un theme]()
+[5. ]()
 
-[1. Créer une page dans le BO pour un theme]()
+[6. ]()
 
-[1. Créer une page dans le BO pour un theme]()
+[7. ]()
 
-[1. Créer une page dans le BO pour un theme]()
+[8. ]()
+
+
+##Complément
+[Actions dans la création de la page wordpress](/theme/actions)
