@@ -1,9 +1,11 @@
 Dans l'action qui crée la page dans le BO, il y un un simple appel à faire sur une fonction native de wordpress
+####/inc/function-admin.php
 ```php
 add_submenu_page( string $parent_slug, string $page_title, string $menu_title, string $capability, string $menu_slug, callable $function = 'my_function' )
 ```
 
 Cette fonction appelle une fonction de callback qui se chargera d'afficher du contenu
+####/inc/function-admin.php
 ```php
 function my_function() {
     echo '<h1>Settings page</h1>';
@@ -11,6 +13,7 @@ function my_function() {
 ```
 
 Dans cette fonction, on peut appeler un fichier externe pour y déclarer notre template et éviter de surcharger inutilement la page
+####/inc/function-admin.php
 ```php
 function my_function() {
     require_once(get_template_directory().'/inc/templates/mon_template_perso.php');
