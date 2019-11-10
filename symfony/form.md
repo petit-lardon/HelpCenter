@@ -6,13 +6,12 @@
 
 ```html
 <div class="lf-location__contact__form__sujet form-group">
-    {{ form_label(formView.children['sujet']) }}
-    {{ form_widget(formView.children['sujet'], {
+     form_label(formView.children['sujet']) 
+     form_widget(formView.children['sujet'], {
         'attr': {
             'required': formView.children['sujet'].vars.required,
             'multiple': false
         }, 
         'placeholder': 'Choose an option'}) 
-    }}
 </div>
 ```
