@@ -1,10 +1,10 @@
 ##Traduction
 Au niveau du template, on déclare des variables 
 ```twig
-{% set translationVars = {
+ set translationVars = {
     '%pagination.start%': pagination.current | default({}),
     '%pagination.end%': pagination.hitsEnd
-} %}
+}
 ```
 
 Que l'on transmet à la clé de trad
