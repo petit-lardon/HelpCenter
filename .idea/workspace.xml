@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67eef84a-1c72-4928-8fdb-3ed513d58b93" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/HelpCenter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HelpCenter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony/translation.md" beforeDir="false" afterPath="$PROJECT_DIR$/symfony/translation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twig/inclusion.md" beforeDir="false" afterPath="$PROJECT_DIR$/twig/inclusion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twig/macros.md" beforeDir="false" afterPath="$PROJECT_DIR$/twig/macros.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/theme/actions.md" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/theme/actions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony/form.md" beforeDir="false" afterPath="$PROJECT_DIR$/symfony/form.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +81,7 @@
       <workItem from="1571647301426" duration="329000" />
       <workItem from="1572251200515" duration="3918000" />
       <workItem from="1572858647547" duration="597000" />
-      <workItem from="1572862695111" duration="10176000" />
+      <workItem from="1572862695111" duration="11403000" />
     </task>
     <servers />
   </component>
