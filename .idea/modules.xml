@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HelpCenter.iml" filepath="$PROJECT_DIR$/.idea/HelpCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wp_theme/.idea/wp_theme.iml" filepath="$PROJECT_DIR$/../wp_theme/.idea/wp_theme.iml" />
     </modules>
   </component>
 </project>
