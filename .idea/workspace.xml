@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67eef84a-1c72-4928-8fdb-3ed513d58b93" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/_posts/2019-11-12-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/about.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony/translation.md" beforeDir="false" afterPath="$PROJECT_DIR$/symfony/translation.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +40,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
+    <property name="last_opened_file_path" value="G:/v3-alilaPromotion" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,7 +89,7 @@
       <workItem from="1571647301426" duration="329000" />
       <workItem from="1572251200515" duration="3918000" />
       <workItem from="1572858647547" duration="597000" />
-      <workItem from="1572862695111" duration="11657000" />
+      <workItem from="1572862695111" duration="15101000" />
     </task>
     <servers />
   </component>
