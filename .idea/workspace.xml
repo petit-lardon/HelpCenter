@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="67eef84a-1c72-4928-8fdb-3ed513d58b93" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/react/command.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/_posts/2019-11-12-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony/translation.md" beforeDir="false" afterPath="$PROJECT_DIR$/symfony/translation.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,11 +43,17 @@
   </component>
   <component name="ProjectId" id="1RgfWPOibZLsbjbMUqrpIBQuB78" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="G:/v3-alilaPromotion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,26 +64,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jlavie\petitlardon\HelpCenter\twig" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\helpCenter\react" />
       <recent name="C:\Users\jlavie\petitlardon\HelpCenter\html" />
       <recent name="C:\Users\jlavie\petitlardon\HelpCenter\symfony" />
       <recent name="C:\Users\jlavie\petitlardon\HelpCenter\twig" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jlavie\petitlardon\HelpCenter\twig" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,23 +92,47 @@
       <workItem from="1572251200515" duration="3918000" />
       <workItem from="1572858647547" duration="597000" />
       <workItem from="1572862695111" duration="15101000" />
+      <workItem from="1610614239804" duration="1370000" />
+      <workItem from="1610958593460" duration="1796000" />
+      <workItem from="1611213664446" duration="2388000" />
+      <workItem from="1612427393402" duration="2550000" />
+      <workItem from="1613124404926" duration="10745000" />
+      <workItem from="1613153563542" duration="2037000" />
+      <workItem from="1613299621338" duration="15060000" />
+      <workItem from="1614008660595" duration="1334000" />
+      <workItem from="1614782619182" duration="4892000" />
+      <workItem from="1615213679749" duration="3629000" />
+      <workItem from="1615371019432" duration="3449000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="381" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613399990352">
+      <screen x="0" y="0" width="1600" height="1160" />
+    </state>
+    <state x="526" y="381" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1600.1160@0.0.1600.1160" timestamp="1613399990352" />
+    <state x="580" y="334" key="FileChooserDialogImpl" timestamp="1613151074752">
+      <screen x="0" y="0" width="1600" height="1160" />
+    </state>
+    <state x="580" y="334" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1600.1160@0.0.1600.1160" timestamp="1613151074752" />
+    <state x="463" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1613747604224">
+      <screen x="0" y="0" width="1600" height="1160" />
+    </state>
+    <state x="463" y="255" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1600.1160@0.0.1600.1160" timestamp="1613747604224" />
   </component>
 </project>
